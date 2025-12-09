@@ -1,6 +1,3 @@
-<script setup>
-</script>
-
 <template>
   <header class="w-full border-b border-slate-200 bg-slate-700 backdrop-blur-sm">
     <div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3 md:px-6">
@@ -27,6 +24,3 @@
     </div>
   </header>
 </template>
-
-<style scoped>
-</style>

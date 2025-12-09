@@ -117,6 +117,3 @@ onMounted(() => {
     
   
 </template>
-
-<style scoped>
-</style>

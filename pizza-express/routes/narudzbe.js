@@ -3,7 +3,13 @@ import { narudzbe, pizze } from '../data/data.js';
 
 const router = express.Router();
 
+router.get('/', (req, res) => {
+  res.json(narudzbe);
+});
+
 router.post('/', (req, res) => {
+    console.log('Primljeni podaci narudžbe:', req.body);
+
   const { narucene_pizze, podaci_dostava } = req.body;
   
   if (!narucene_pizze || narucene_pizze.length === 0) {
