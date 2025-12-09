@@ -16,7 +16,7 @@ npm install
 node index.js
 ```
 
-Dobrodošli u Pizza Express poslužitelj!
+Pizza poslužitelj sluša na portu 3000
 
 Ostaviti ovaj terminal otvoren! Backend mora raditi cijelo vrijeme.
 
