@@ -6,7 +6,7 @@
 Prvo treba klonirati projekt:
 ```bash
 git clone https://github.com/IvaBatur/WA-vjezba3.git 
-cd pizza-app
+cd WA-vjezba3
 ```
 
 ### Backend
